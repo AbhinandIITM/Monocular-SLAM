@@ -1,0 +1,127 @@
+#,2025-06-26 13:01:32.978344,Main started...
+#,2025-06-26 13:01:32.995290,Data prep started...
+#,2025-06-26 13:01:33.048254,Loading data started...
+#,2025-06-26 13:01:33.049761,WARNING: make sure that the config of data generation was not changed
+#,2025-06-26 13:01:33.982753,Training started...
+Train epoch, 0, audio loss, 1.101288, loc loss, 2.217081, tdoa loss, 0.000000, loc MAE [cm], 163.149881, loc acc, 0.004400, lr, 0.000200
+
+Test epoch, 0, audio loss, 1.102172, loc loss, 1.058539, tdoa loss, 0.000000, loc MAE [cm], 169.100980, loc acc, 0.000000
+
+Train epoch, 1, audio loss, 1.016285, loc loss, 2.328208, tdoa loss, 0.000000, loc MAE [cm], 162.207628, loc acc, 0.005000, lr, 0.000400
+
+Test epoch, 1, audio loss, 0.998720, loc loss, 1.099563, tdoa loss, 0.000000, loc MAE [cm], 172.090532, loc acc, 0.010000
+
+Train epoch, 2, audio loss, 0.975214, loc loss, 1.942292, tdoa loss, 0.000000, loc MAE [cm], 161.423469, loc acc, 0.006400, lr, 0.000600
+
+Test epoch, 2, audio loss, 0.980514, loc loss, 1.070043, tdoa loss, 0.000000, loc MAE [cm], 171.174058, loc acc, 0.010000
+
+Train epoch, 3, audio loss, 0.939251, loc loss, 1.701924, tdoa loss, 0.000000, loc MAE [cm], 161.481075, loc acc, 0.004800, lr, 0.000800
+
+Test epoch, 3, audio loss, 0.955997, loc loss, 1.059265, tdoa loss, 0.000000, loc MAE [cm], 168.936876, loc acc, 0.000000
+
+Train epoch, 4, audio loss, 0.885390, loc loss, 1.983483, tdoa loss, 0.000000, loc MAE [cm], 160.619229, loc acc, 0.004800, lr, 0.001000
+
+Test epoch, 4, audio loss, 0.925700, loc loss, 1.088818, tdoa loss, 0.000000, loc MAE [cm], 171.972897, loc acc, 0.000000
+
+Train epoch, 5, audio loss, 0.840872, loc loss, 1.617163, tdoa loss, 0.000000, loc MAE [cm], 126.018396, loc acc, 0.015200, lr, 0.001000
+
+Test epoch, 5, audio loss, 0.912911, loc loss, 0.550138, tdoa loss, 0.000000, loc MAE [cm], 94.182862, loc acc, 0.039000
+
+Train epoch, 6, audio loss, 0.781129, loc loss, 1.249754, tdoa loss, 0.000000, loc MAE [cm], 95.706747, loc acc, 0.026200, lr, 0.000997
+
+Test epoch, 6, audio loss, 0.887276, loc loss, 0.487602, tdoa loss, 0.000000, loc MAE [cm], 85.073243, loc acc, 0.030000
+
+Train epoch, 7, audio loss, 0.735415, loc loss, 1.193123, tdoa loss, 0.000000, loc MAE [cm], 86.234288, loc acc, 0.040600, lr, 0.000989
+
+Test epoch, 7, audio loss, 0.860261, loc loss, 0.491742, tdoa loss, 0.000000, loc MAE [cm], 83.203683, loc acc, 0.040000
+
+Train epoch, 8, audio loss, 0.684125, loc loss, 1.113017, tdoa loss, 0.000000, loc MAE [cm], 82.119482, loc acc, 0.040600, lr, 0.000976
+
+Test epoch, 8, audio loss, 0.853392, loc loss, 0.457141, tdoa loss, 0.000000, loc MAE [cm], 76.682915, loc acc, 0.070000
+
+Train epoch, 9, audio loss, 0.635213, loc loss, 1.141924, tdoa loss, 0.000000, loc MAE [cm], 80.451653, loc acc, 0.055400, lr, 0.000957
+
+Test epoch, 9, audio loss, 0.828604, loc loss, 0.466159, tdoa loss, 0.000000, loc MAE [cm], 81.254480, loc acc, 0.060000
+
+Train epoch, 10, audio loss, 0.632986, loc loss, 1.261266, tdoa loss, 0.000000, loc MAE [cm], 79.127397, loc acc, 0.052600, lr, 0.000934
+
+Test epoch, 10, audio loss, 0.812637, loc loss, 0.444806, tdoa loss, 0.000000, loc MAE [cm], 77.225258, loc acc, 0.059000
+
+Train epoch, 11, audio loss, 0.610689, loc loss, 1.116910, tdoa loss, 0.000000, loc MAE [cm], 76.066269, loc acc, 0.059600, lr, 0.000905
+
+Test epoch, 11, audio loss, 0.793653, loc loss, 0.396371, tdoa loss, 0.000000, loc MAE [cm], 67.059396, loc acc, 0.090000
+
+Train epoch, 12, audio loss, 0.563675, loc loss, 0.970035, tdoa loss, 0.000000, loc MAE [cm], 73.326236, loc acc, 0.064600, lr, 0.000873
+
+Test epoch, 12, audio loss, 0.767561, loc loss, 0.404005, tdoa loss, 0.000000, loc MAE [cm], 66.473902, loc acc, 0.070000
+
+Train epoch, 13, audio loss, 0.533912, loc loss, 1.101794, tdoa loss, 0.000000, loc MAE [cm], 72.791015, loc acc, 0.065000, lr, 0.000836
+
+Test epoch, 13, audio loss, 0.760581, loc loss, 0.391364, tdoa loss, 0.000000, loc MAE [cm], 67.590856, loc acc, 0.050000
+
+Train epoch, 14, audio loss, 0.507067, loc loss, 1.214398, tdoa loss, 0.000000, loc MAE [cm], 70.667828, loc acc, 0.072400, lr, 0.000796
+
+Test epoch, 14, audio loss, 0.732024, loc loss, 0.371100, tdoa loss, 0.000000, loc MAE [cm], 59.642795, loc acc, 0.070000
+
+Train epoch, 15, audio loss, 0.478488, loc loss, 1.056854, tdoa loss, 0.000000, loc MAE [cm], 68.338868, loc acc, 0.088200, lr, 0.000753
+
+Test epoch, 15, audio loss, 0.712843, loc loss, 0.375631, tdoa loss, 0.000000, loc MAE [cm], 57.353611, loc acc, 0.060000
+
+Train epoch, 16, audio loss, 0.475823, loc loss, 1.054924, tdoa loss, 0.000000, loc MAE [cm], 69.151114, loc acc, 0.077600, lr, 0.000706
+
+Test epoch, 16, audio loss, 0.703279, loc loss, 0.386552, tdoa loss, 0.000000, loc MAE [cm], 60.794907, loc acc, 0.120000
+
+Train epoch, 17, audio loss, 0.454152, loc loss, 1.126340, tdoa loss, 0.000000, loc MAE [cm], 66.715810, loc acc, 0.087400, lr, 0.000658
+
+Test epoch, 17, audio loss, 0.692994, loc loss, 0.347222, tdoa loss, 0.000000, loc MAE [cm], 56.629946, loc acc, 0.110000
+
+Train epoch, 18, audio loss, 0.441612, loc loss, 1.005720, tdoa loss, 0.000000, loc MAE [cm], 65.333945, loc acc, 0.095400, lr, 0.000608
+
+Test epoch, 18, audio loss, 0.680981, loc loss, 0.389748, tdoa loss, 0.000000, loc MAE [cm], 60.502593, loc acc, 0.090000
+
+Train epoch, 19, audio loss, 0.432458, loc loss, 0.925959, tdoa loss, 0.000000, loc MAE [cm], 64.651094, loc acc, 0.094400, lr, 0.000557
+
+Test epoch, 19, audio loss, 0.670038, loc loss, 0.303474, tdoa loss, 0.000000, loc MAE [cm], 55.061927, loc acc, 0.101000
+
+Train epoch, 20, audio loss, 0.423101, loc loss, 0.883382, tdoa loss, 0.000000, loc MAE [cm], 61.807190, loc acc, 0.119400, lr, 0.000505
+
+Test epoch, 20, audio loss, 0.667126, loc loss, 0.306946, tdoa loss, 0.000000, loc MAE [cm], 52.367171, loc acc, 0.151000
+
+Train epoch, 21, audio loss, 0.419005, loc loss, 0.915620, tdoa loss, 0.000000, loc MAE [cm], 61.202484, loc acc, 0.130000, lr, 0.000453
+
+Test epoch, 21, audio loss, 0.656909, loc loss, 0.244339, tdoa loss, 0.000000, loc MAE [cm], 51.885805, loc acc, 0.151000
+
+Train epoch, 22, audio loss, 0.405524, loc loss, 0.782739, tdoa loss, 0.000000, loc MAE [cm], 60.412377, loc acc, 0.129600, lr, 0.000402
+
+Test epoch, 22, audio loss, 0.649335, loc loss, 0.271067, tdoa loss, 0.000000, loc MAE [cm], 55.064540, loc acc, 0.161000
+
+Train epoch, 23, audio loss, 0.392465, loc loss, 0.803441, tdoa loss, 0.000000, loc MAE [cm], 57.554359, loc acc, 0.153600, lr, 0.000352
+
+Test epoch, 23, audio loss, 0.643630, loc loss, 0.254557, tdoa loss, 0.000000, loc MAE [cm], 47.829936, loc acc, 0.241000
+
+Train epoch, 24, audio loss, 0.391420, loc loss, 0.778650, tdoa loss, 0.000000, loc MAE [cm], 56.231967, loc acc, 0.164600, lr, 0.000304
+
+Test epoch, 24, audio loss, 0.640128, loc loss, 0.223744, tdoa loss, 0.000000, loc MAE [cm], 45.439454, loc acc, 0.251000
+
+Train epoch, 25, audio loss, 0.385558, loc loss, 0.756493, tdoa loss, 0.000000, loc MAE [cm], 54.291722, loc acc, 0.184400, lr, 0.000258
+
+Test epoch, 25, audio loss, 0.632397, loc loss, 0.231337, tdoa loss, 0.000000, loc MAE [cm], 45.075529, loc acc, 0.260000
+
+Train epoch, 26, audio loss, 0.385958, loc loss, 0.769421, tdoa loss, 0.000000, loc MAE [cm], 53.075788, loc acc, 0.189400, lr, 0.000214
+
+Test epoch, 26, audio loss, 0.628067, loc loss, 0.192070, tdoa loss, 0.000000, loc MAE [cm], 41.465197, loc acc, 0.311000
+
+Train epoch, 27, audio loss, 0.381991, loc loss, 0.801824, tdoa loss, 0.000000, loc MAE [cm], 52.246463, loc acc, 0.208200, lr, 0.000174
+
+Test epoch, 27, audio loss, 0.624014, loc loss, 0.253610, tdoa loss, 0.000000, loc MAE [cm], 45.306472, loc acc, 0.241000
+
+Train epoch, 28, audio loss, 0.378510, loc loss, 0.843592, tdoa loss, 0.000000, loc MAE [cm], 51.025135, loc acc, 0.222800, lr, 0.000137
+
+Test epoch, 28, audio loss, 0.621322, loc loss, 0.209387, tdoa loss, 0.000000, loc MAE [cm], 40.898915, loc acc, 0.331000
+
+Train epoch, 29, audio loss, 0.370798, loc loss, 0.773747, tdoa loss, 0.000000, loc MAE [cm], 49.766525, loc acc, 0.230000, lr, 0.000105
+
+Test epoch, 29, audio loss, 0.619974, loc loss, 0.204554, tdoa loss, 0.000000, loc MAE [cm], 43.104650, loc acc, 0.271000
+
+#,2025-06-26 14:48:47.761319,Saving started...
+#,2025-06-26 14:48:47.862712,All Done!
